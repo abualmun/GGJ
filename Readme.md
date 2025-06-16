@@ -1,5 +1,6 @@
 # 🐔 Chicken On A Mission
-
+![](screenshots/0.jpg)
+![](screenshots/1.jpg)
 **Sack Escape** is a fast-paced 3D game where you play as a brave chicken trying to collect scattered sacks while dodging dangerous barbarians. The game takes place on a spherical world, and the chase never stops!
 
 ## 🎮 Game Concept
@@ -31,8 +32,16 @@ We put a lot of effort into making movement *feel right*:
 * 🧭 Optional minimap and sack indicators to help navigate.
 * ✨ Visual particles and feedback systems in the works.
 
+
+![](screenshots/2.jpg)
+
+![](screenshots/3.jpg)
+
 ## 🔧 Known Issues (but they’re part of the charm!)
 
 * Moving directly across the planet may sometimes slow down due to the limitations of straight-line movement on curved space.
 * Win/Lose conditions are being refined for frame-accurate responsiveness.
 * Close encounters with enemies can feel abrupt (we're tuning the hit delay).
+
+
+![](screenshots/4.jpg)
